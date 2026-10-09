@@ -1,0 +1,1 @@
+{"ansible_connection": "winrm", "ansible_host": "host0.example.invalid", "ansible_user": "operator", "ansible_password": "{{ vault_windows_password }}"}
